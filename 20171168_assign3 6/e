@@ -1,0 +1,6 @@
+getDirectory.o : getDirectory.c
+	gcc -c getDirectory.c
+
+getDirectory.o : getDirectory.c
+	gcc -c getDirectory.c
+
